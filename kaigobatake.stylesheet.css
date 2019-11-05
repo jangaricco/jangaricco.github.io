@@ -122,7 +122,7 @@ header {
    
 .header-wrapper {
 	height: 40px;
-	background-image: url(logo_01.png);
+	background-image: url(1_Primary_logo_on_transparent_148x71.png);
 	margin-bottom: 5px;
 	display: flex;
 	background-repeat: no-repeat;
@@ -147,7 +147,7 @@ header {
 /****  top-wrapper leftここから　****/
 .top-wrapper {
 	height: 724px;
-	background-image: url("mv.jpg");
+	background-image: url("65c152b32cafea070d38927e4fd5bac7_s.jpg");
 	position: relative;
 }
 
