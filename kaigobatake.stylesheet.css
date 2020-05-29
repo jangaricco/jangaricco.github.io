@@ -189,7 +189,6 @@ body {
 /****  headerここから　*/
 header {
     height: auto;
-    width: auto;
     border-top: 7px solid #75C5B3;
     border-bottom: 3px solid #75C5B3;
 }
@@ -739,9 +738,6 @@ header {
 .Registration {
     margin: 49px auto auto 339px;
 }
-
-
-
 
 
 
