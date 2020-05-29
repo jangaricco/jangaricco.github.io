@@ -177,14 +177,15 @@ select {
 /****  Reset CSS ここまで　*/
 
 body {
-    position: absolute;
-    width: 1100px;
     height: 4941px;
-    margin: 0 auto;
     padding: 0;
     font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", "sans-serif";
 }
 
+.container {
+    width:1100px;
+    margin: 0 auto;
+}
 /****  headerここから　*/
 header {
     height: auto;
